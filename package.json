@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-recomender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davichobits/restaurant-recomender.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davichobits/restaurant-recomender/issues"
+  },
+  "homepage": "https://github.com/Davichobits/restaurant-recomender#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
